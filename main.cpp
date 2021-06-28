@@ -65,6 +65,7 @@ int main() {
   cout << "\nWhen I got home I " << verbPastTense2 << " my mom for a " << adjective4 << " day at the zoo.";
 
   // Monkey because why not
+  // I like monkies
   cout << R"(
                ',
             .-`-,\__
